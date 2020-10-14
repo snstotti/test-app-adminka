@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-app-adminka/static/css/main.913df1ab.chunk.css",
-    "main.js": "/test-app-adminka/static/js/main.55f22d30.chunk.js",
-    "main.js.map": "/test-app-adminka/static/js/main.55f22d30.chunk.js.map",
+    "main.js": "/test-app-adminka/static/js/main.68a77e32.chunk.js",
+    "main.js.map": "/test-app-adminka/static/js/main.68a77e32.chunk.js.map",
     "runtime-main.js": "/test-app-adminka/static/js/runtime-main.52af7282.js",
     "runtime-main.js.map": "/test-app-adminka/static/js/runtime-main.52af7282.js.map",
     "static/css/2.2a86faee.chunk.css": "/test-app-adminka/static/css/2.2a86faee.chunk.css",
     "static/js/2.72017079.chunk.js": "/test-app-adminka/static/js/2.72017079.chunk.js",
     "static/js/2.72017079.chunk.js.map": "/test-app-adminka/static/js/2.72017079.chunk.js.map",
     "index.html": "/test-app-adminka/index.html",
-    "precache-manifest.00643e3cce8d425e8ffcaaa33dafa15e.js": "/test-app-adminka/precache-manifest.00643e3cce8d425e8ffcaaa33dafa15e.js",
+    "precache-manifest.6c7a21b38028c3ddb264359f2c807a4f.js": "/test-app-adminka/precache-manifest.6c7a21b38028c3ddb264359f2c807a4f.js",
     "service-worker.js": "/test-app-adminka/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/test-app-adminka/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.913df1ab.chunk.css.map": "/test-app-adminka/static/css/main.913df1ab.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.72017079.chunk.js",
     "static/css/main.913df1ab.chunk.css",
-    "static/js/main.55f22d30.chunk.js"
+    "static/js/main.68a77e32.chunk.js"
   ]
 }

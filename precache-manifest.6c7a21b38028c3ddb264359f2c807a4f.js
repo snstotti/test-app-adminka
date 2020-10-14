@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9175568a1263263990eb7a69cee8c05f",
+    "revision": "7539ea54d9b92b0a2402a06bac6c2ef3",
     "url": "/test-app-adminka/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-app-adminka/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "21dc84e4853be9a091c3",
+    "revision": "b45e175d97d7ee47024b",
     "url": "/test-app-adminka/static/css/main.913df1ab.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-app-adminka/static/js/2.72017079.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21dc84e4853be9a091c3",
-    "url": "/test-app-adminka/static/js/main.55f22d30.chunk.js"
+    "revision": "b45e175d97d7ee47024b",
+    "url": "/test-app-adminka/static/js/main.68a77e32.chunk.js"
   },
   {
     "revision": "b6ae89cd27698b785340",

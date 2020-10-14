@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-app-adminka/precache-manifest.00643e3cce8d425e8ffcaaa33dafa15e.js"
+  "/test-app-adminka/precache-manifest.6c7a21b38028c3ddb264359f2c807a4f.js"
 );
 
 self.addEventListener('message', (event) => {
