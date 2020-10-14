@@ -1,0 +1,14 @@
+.inputError {
+    border: 2px solid red;
+    border-radius: 3px;
+    
+}
+.textError {
+    padding-left: 10px;
+    color: red;
+}
+
+.checkbox {
+    border: 2px solid red;
+    background: green;
+}
